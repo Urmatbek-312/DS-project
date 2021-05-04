@@ -4,7 +4,8 @@
 
 Classic TowerOfHanoi game using web.
 
-TowerOfHanoi game created with  Java  the game main control is mouse. The aim of the user is put disc one by one . This game can be play in laptop and mobile.
+Tower of Hanoi is one of the popular puzzles of the 19th century. Three rods are given, on one of which eight rings are strung, and the rings differ in size and lie on the smaller one. The task is to transfer the pyramid of eight rings in the least number of moves to another rod.
+
 
 
 **Presentation**
