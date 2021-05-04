@@ -1,8 +1,10 @@
 # DS-project
-![GitHub Logo](/image 1.png)
+![GitHub Logo](image/image 1.png)
 Format: ![Alt Text](url)
-![GitHub Logo](/image 2.png)
+
+![GitHub Logo](image/image 2.png)
 Format: ![Alt Text](url)
-![GitHub Logo](/image 3.png)
+
+![GitHub Logo](image/image 3.png)
 Format: ![Alt Text](url)
 
