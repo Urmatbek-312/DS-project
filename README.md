@@ -1,5 +1,12 @@
 # DS-project
 
+**Description**
+
+Classic TowerOfHanoi game using web.
+
+TowerOfHanoi game created with  Java  the game main control is mouse. The aim of the user is put disc one by one . This game can be play in laptop and mobile.
+
+
 **Presentation**
 
 
